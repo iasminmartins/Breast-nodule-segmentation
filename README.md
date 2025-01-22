@@ -1,6 +1,6 @@
 # Breast Nodule Segmentation - Undergraduate Thesis
 
-This repository contains the R scripts and analyses developed as part of my undergraduate thesis in Biomedical Engineering at the Federal University of Uberlândia (UFU). The thesis focuses on evaluating active contour segmentation methods and the influence of preprocessing techniques in mammographic image analysis.
+This repository contains the MATLAB scripts and analyses developed as part of my undergraduate thesis in Biomedical Engineering at the Federal University of Uberlândia (UFU). The thesis focuses on evaluating active contour segmentation methods and the influence of preprocessing techniques in mammographic image analysis.
 
 📄 **Access the thesis:** [Evaluation of Active Contour and the Influence of Preprocessing in Breast Nodule Segmentation](https://repositorio.ufu.br/handle/123456789/43245)
 
